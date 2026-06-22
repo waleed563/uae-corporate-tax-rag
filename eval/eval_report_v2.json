@@ -1,0 +1,47 @@
+{
+  "Baseline": {
+    "faithfulness": 0.441,
+    "answer_relevancy": 0.441,
+    "context_precision": 0.706,
+    "context_recall": 0.647,
+    "answerable_count": 17,
+    "trap_passed": "3/3",
+    "skipped": []
+  },
+  "Ring 1": {
+    "faithfulness": 0.753,
+    "answer_relevancy": 0.788,
+    "context_precision": 0.959,
+    "context_recall": 0.947,
+    "answerable_count": 17,
+    "trap_passed": "3/3",
+    "skipped": []
+  },
+  "Ring 2": {
+    "faithfulness": 0.706,
+    "answer_relevancy": 0.712,
+    "context_precision": 0.953,
+    "context_recall": 0.912,
+    "answerable_count": 17,
+    "trap_passed": "3/3",
+    "skipped": []
+  },
+  "Ring 3": {
+    "faithfulness": 0.588,
+    "answer_relevancy": 0.647,
+    "context_precision": 0.841,
+    "context_recall": 0.782,
+    "answerable_count": 17,
+    "trap_passed": "3/3",
+    "skipped": []
+  },
+  "Ring 4": {
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.576,
+    "context_precision": 0.724,
+    "context_recall": 0.671,
+    "answerable_count": 17,
+    "trap_passed": "3/3",
+    "skipped": []
+  }
+}

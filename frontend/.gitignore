@@ -1,0 +1,33 @@
+# ── Secrets — NEVER commit these ──
+.env
+*.key
+
+# ── Python virtual environments ──
+tax-rag/
+ragas-env/
+venv/
+*/venv/
+__pycache__/
+*.pyc
+
+# ── Node / frontend build ──
+frontend/node_modules/
+frontend/dist/
+node_modules/
+
+# ── Hugging Face / model caches ──
+.cache/
+
+# ── Generated result + profile files (keep local; they're outputs) ──
+*_results.json
+*_results.md
+eval_report*.json
+profile.json
+chunk_quality.json
+
+# ── OS noise ──
+.DS_Store
+Thumbs.db
+
+# ── Optional: exclude the source PDF (large; document where to get it) ──
+# data/*.pdf

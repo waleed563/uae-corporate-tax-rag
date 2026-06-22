@@ -1,0 +1,962 @@
+[
+  {
+    "num": 1,
+    "question": "What's the corporate tax rate in the UAE?",
+    "category": "Simple lookup",
+    "answer": "The corporate tax rate in the UAE is 9% on the portion of the Taxable Income exceeding AED 375,000. Source: page 21 of CTGGCT1.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": 92,
+        "cosine_score": 0.6629,
+        "rerank_score": 6.0059,
+        "page": 21,
+        "text": "• The portion of the Taxable income exceeding AED 375,000 will be subject to \nCorporate Tax at 9%: (AED 6,000,000 - AED 375,000) x 9% = AED 5,625,000 x \n9% = AED 506,250 \n \nA LLC’s UAE Corporate Tax liability for the Tax Period will be AED 506,250. \n \nIn order to calculate its UAE Corporate Tax payable, A LLC will need to consider if there \nare any available tax credits to reduce its UAE Corporate Tax liability (see Section 9.3). \n \n \n \nSpecific rules cover the identification of Taxable Persons subject to Corporate Tax"
+      },
+      {
+        "rank": 2,
+        "chunk_id": 90,
+        "cosine_score": 0.7163,
+        "rerank_score": 5.8661,
+        "page": 21,
+        "text": "General Corporate Tax Guide | Corporate Tax | CTGGCT1 \n20 \n• \n9% (nine percent) on the portion of the Taxable Income exceeding AED \n375,000. \n \nExample 1: Calculation of Corporate Tax \n \nA LLC is a company incorporated in the UAE. In the Tax Period ending March 2025, A \nLLC generated Revenue of AED 8 million and incurred expenses of AED 2 million, \nresulting in a net profit of AED 6 million per its Financial Statements. \n \nA LLC’s Taxable Income for its Tax Period will be the accounting net profit (or loss) of"
+      },
+      {
+        "rank": 3,
+        "chunk_id": 87,
+        "cosine_score": 0.6752,
+        "rerank_score": 5.7749,
+        "page": 20,
+        "text": "Tax’ or ‘Business Profits Tax’ in other jurisdictions. \n \nCorporate Tax is charged on a wide range of Business profits, and those subject to \nCorporate Tax in the UAE include not only companies but also certain partnerships, \nunincorporated entities and natural persons conducting a Business or Business \nActivities.  \n \nCorporate Tax is paid on an annual basis with reference to the Tax Period of a Taxable \nPerson. A Tax Period is the Financial Year or part thereof for which a Tax Return \nneeds to be filed. The Financial Year is the period of 12 months for which Financial"
+      },
+      {
+        "rank": 4,
+        "chunk_id": 228,
+        "cosine_score": 0.6494,
+        "rerank_score": 5.4617,
+        "page": 49,
+        "text": "and outside the UAE.  \n• \nNon-Resident Persons with a Permanent Establishment or a nexus in the UAE \nare subject to Corporate Tax on income attributable to that Permanent \nEstablishment or nexus. If the Non-Resident does not have a Permanent \nEstablishment or a nexus in the UAE but derives income from the UAE, that \nincome would be subject to withholding tax at the rate of 0%.  \n• \nNatural persons are only subject to Corporate Tax on the Taxable Income of \ntheir Business or Business Activity derived from the UAE, or from outside the"
+      },
+      {
+        "rank": 5,
+        "chunk_id": 531,
+        "cosine_score": 0.702,
+        "rerank_score": 5.0849,
+        "page": 113,
+        "text": "extent the income is not attributed to a Permanent Establishment in the UAE. 352 \nHowever, the rate of this tax is 0% meaning that, currently, no tax will need to be \nwithheld. \n \nIf the rate is changed in future, a Non-Resident Person who becomes subject to \nCorporate Tax would be able to reduce their Corporate Tax Payable by any \nWithholding Tax that has already been deducted in the same Tax Period.353 This is \nknown as Withholding Tax Credit. Any excess Withholding Tax Credit will be \nrefunded.354"
+      }
+    ]
+  },
+  {
+    "num": 2,
+    "question": "When did corporate tax actually start in the UAE?",
+    "category": "Simple lookup",
+    "answer": "Corporate Tax in the UAE started for Tax Periods commencing on or after 1 June 2023. Source: page 20 of CTGGCT1.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": 59,
+        "cosine_score": 0.7479,
+        "rerank_score": 5.9375,
+        "page": 14,
+        "text": "General Corporate Tax Guide | Corporate Tax | CTGGCT1 \n13 \n2. Introduction \n \n \nOverview \n \nFederal Decree-Law No. 47 of 2022 on the Taxation of Corporations and Businesses \n(“Corporate Tax Law”) was signed on 3 October 2022 and was published in Issue #737 \nof the Official Gazette of the United Arab Emirates (“UAE”) on 10 October 2022.  \n \nThe Corporate Tax Law provides the legislative basis for imposing a federal tax on \ncorporations and Business profits (“Corporate Tax”) in the UAE. \n \nThe provisions of the Corporate Tax Law shall apply to Tax Periods commencing on \nor after 1 June 2023."
+      },
+      {
+        "rank": 2,
+        "chunk_id": 88,
+        "cosine_score": 0.6827,
+        "rerank_score": 4.5664,
+        "page": 20,
+        "text": "needs to be filed. The Financial Year is the period of 12 months for which Financial \nStatements are prepared.1 Payment of Corporate Tax is due within nine months from \nthe end of the applicable Tax Period.2 \n \nThe UAE Corporate Tax regime applies to Tax Periods commencing on or after 1 June \n2023.3 \n \n \nHow does Corporate Tax work? \n \nTaxable Persons are subject to Corporate Tax on their Taxable Income - this is their \nAccounting Income with certain adjustments made for Corporate Tax purposes.  \n \nGenerally, Corporate Tax is imposed on Taxable Income at the following rates: \n•"
+      },
+      {
+        "rank": 3,
+        "chunk_id": 60,
+        "cosine_score": 0.6507,
+        "rerank_score": 4.2328,
+        "page": 14,
+        "text": "or after 1 June 2023. \n \n \nPurpose of this guide  \n \nThis guide is designed to provide general guidance on Corporate Tax in the UAE with \na view to making the provisions of the Corporate Tax Law as understandable as \npossible to readers. It provides readers with: \n \n• an overview of the main Corporate Tax rules and procedures, including the \ndetermination of the Corporate Tax base, the calculation of Corporate Tax, the \nfiling of Corporate Tax Returns, and other related compliance requirements; \nand \n• assistance with the most common questions businesses might have."
+      },
+      {
+        "rank": 4,
+        "chunk_id": 90,
+        "cosine_score": 0.6703,
+        "rerank_score": 2.4415,
+        "page": 21,
+        "text": "General Corporate Tax Guide | Corporate Tax | CTGGCT1 \n20 \n• \n9% (nine percent) on the portion of the Taxable Income exceeding AED \n375,000. \n \nExample 1: Calculation of Corporate Tax \n \nA LLC is a company incorporated in the UAE. In the Tax Period ending March 2025, A \nLLC generated Revenue of AED 8 million and incurred expenses of AED 2 million, \nresulting in a net profit of AED 6 million per its Financial Statements. \n \nA LLC’s Taxable Income for its Tax Period will be the accounting net profit (or loss) of"
+      },
+      {
+        "rank": 5,
+        "chunk_id": 87,
+        "cosine_score": 0.6974,
+        "rerank_score": 1.6826,
+        "page": 20,
+        "text": "Tax’ or ‘Business Profits Tax’ in other jurisdictions. \n \nCorporate Tax is charged on a wide range of Business profits, and those subject to \nCorporate Tax in the UAE include not only companies but also certain partnerships, \nunincorporated entities and natural persons conducting a Business or Business \nActivities.  \n \nCorporate Tax is paid on an annual basis with reference to the Tax Period of a Taxable \nPerson. A Tax Period is the Financial Year or part thereof for which a Tax Return \nneeds to be filed. The Financial Year is the period of 12 months for which Financial"
+      }
+    ]
+  },
+  {
+    "num": 3,
+    "question": "How much profit can I make before I owe any corporate tax?",
+    "category": "Simple lookup",
+    "answer": "You can make a profit of up to AED 375,000 before owing any corporate tax, as this portion of the taxable income is subject to a 0% tax rate. Any profit exceeding AED 375,000 will be subject to corporate tax at the applicable rate. \n\nSource: page 21 of CTGGCT1.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": 320,
+        "cosine_score": 0.5043,
+        "rerank_score": 0.3737,
+        "page": 68,
+        "text": "General Corporate Tax Guide | Corporate Tax | CTGGCT1 \n67 \nExample 17: General Interest Deduction Limitation Rule \n \nC LLC has Revenue of AED 150,000,000, adjusted EBITDA of AED 130,000,000 and \nProfit Before Tax of AED 60,000,000 for its Financial Year ending 31 December 2025. \nIn 2025, C LLC incurs costs including Interest expenditure of AED 80,000,000. C LLC \nalso receives Interest income of AED 30,000,000, resulting in a Net Interest Expenditure \nof AED 50,000,000. \n    \nC LLC may deduct its Net Interest Expenditure of AED 50,000,000 up to the greater of"
+      },
+      {
+        "rank": 2,
+        "chunk_id": 90,
+        "cosine_score": 0.5124,
+        "rerank_score": -0.1596,
+        "page": 21,
+        "text": "General Corporate Tax Guide | Corporate Tax | CTGGCT1 \n20 \n• \n9% (nine percent) on the portion of the Taxable Income exceeding AED \n375,000. \n \nExample 1: Calculation of Corporate Tax \n \nA LLC is a company incorporated in the UAE. In the Tax Period ending March 2025, A \nLLC generated Revenue of AED 8 million and incurred expenses of AED 2 million, \nresulting in a net profit of AED 6 million per its Financial Statements. \n \nA LLC’s Taxable Income for its Tax Period will be the accounting net profit (or loss) of"
+      },
+      {
+        "rank": 3,
+        "chunk_id": 91,
+        "cosine_score": 0.5063,
+        "rerank_score": -0.4221,
+        "page": 21,
+        "text": "A LLC’s Taxable Income for its Tax Period will be the accounting net profit (or loss) of \nthe business, after making tax adjustments for certain items specified in the Corporate \nTax Law. For the purposes of this example, A LLC does not need to make any tax \nadjustments, thus its Taxable Income will be AED 6 million for the Tax Period. \n \nA LLC’s Corporate Tax liability will be calculated as follows: \n• The first AED 375,000 of Taxable Income will be subject to Corporate Tax at 0%: \nAED 375,000 x 0% = AED0 \n \n• The portion of the Taxable income exceeding AED 375,000 will be subject to"
+      },
+      {
+        "rank": 4,
+        "chunk_id": 379,
+        "cosine_score": 0.5064,
+        "rerank_score": -2.2041,
+        "page": 79,
+        "text": "Businesses who have a Tax Loss will be able to use the Tax Loss to reduce Taxable \nIncome in future Tax Periods (provided the necessary conditions are met).228 This is \nto ensure that the amount of Corporate Tax paid by Businesses would (subject to \ncertain conditions) be the same irrespective of when such profits or losses arise. In \ncertain circumstances, Tax Losses can also be used to offset against the Taxable \nIncome of another Business.  \n \nA Taxable Person cannot claim Tax Loss relief for:229 \n \n• \nLosses incurred before the date of commencement of Corporate Tax;  \n•"
+      },
+      {
+        "rank": 5,
+        "chunk_id": 405,
+        "cosine_score": 0.5769,
+        "rerank_score": -3.3041,
+        "page": 85,
+        "text": "Taxable Income \n7,750,000 \nLess: Tax Losses \n(2,000,000) \nFinal Taxable Income \n5,750,000 \n \n \nTransitional rules \n \nIn order to compute the Corporate Tax liabilities for a Taxable Person’s first Tax \nPeriod, it is necessary for Taxable Persons to have both an opening and a closing \nbalance sheet. The opening balance sheet for the first Tax Period should be the \nclosing balance sheet on the last day of the Person’s Financial Year that ends \nimmediately before its first Tax Period commences.241 \n \nIf no accounts were prepared for the previous Financial Year, a closing balance sheet"
+      }
+    ]
+  },
+  {
+    "num": 4,
+    "question": "After my financial year ends, how long do I have to file my return?",
+    "category": "Simple lookup",
+    "answer": "You have to file your Tax Return and pay Corporate Tax within nine months from the end of the relevant Tax Period. For example, if your Financial Year ends on 31 December, you are required to file your Tax Return and pay Corporate Tax on or before 30 September the following year. \n\nSource: page 120 of CTGGCT1.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": 563,
+        "cosine_score": 0.5172,
+        "rerank_score": 2.9387,
+        "page": 120,
+        "text": "of the relevant Tax Period.400 For example, a Taxable Person with a Financial Year \nending on 31 December is required to file their Tax Return and pay Corporate Tax on \nor before 30 September the following year.  \n \nSubmitting a Tax Return late or a delay in making a payment of Corporate Tax Payable \nwill result in a penalty of: \n \n• \nAED 500 for each month of delay, or part thereof, for the first twelve months; \n• \nAED 1,000 for each month of delay, or part thereof, from the thirteenth month \nonwards.401"
+      },
+      {
+        "rank": 2,
+        "chunk_id": 88,
+        "cosine_score": 0.4669,
+        "rerank_score": 2.3164,
+        "page": 20,
+        "text": "needs to be filed. The Financial Year is the period of 12 months for which Financial \nStatements are prepared.1 Payment of Corporate Tax is due within nine months from \nthe end of the applicable Tax Period.2 \n \nThe UAE Corporate Tax regime applies to Tax Periods commencing on or after 1 June \n2023.3 \n \n \nHow does Corporate Tax work? \n \nTaxable Persons are subject to Corporate Tax on their Taxable Income - this is their \nAccounting Income with certain adjustments made for Corporate Tax purposes.  \n \nGenerally, Corporate Tax is imposed on Taxable Income at the following rates: \n•"
+      },
+      {
+        "rank": 3,
+        "chunk_id": 562,
+        "cosine_score": 0.4238,
+        "rerank_score": 1.6281,
+        "page": 120,
+        "text": "• \nTo move from the Cash Basis of Accounting to Accrual Basis of Accounting;396 \n• \nTo form, join or leave a Tax Group, replace a Parent Company in a Tax Group, \nor cease to be a Tax Group;397 \n• \nTo deregister for Corporate Tax;398 and \n• \nTo change their Tax Period.399 \n \n Tax Returns and payments \n \nConsistent with Corporate Tax being a self-assessed regime, Taxable Persons should \npay Corporate Tax and file their Corporate Tax Return within 9 months from the end \nof the relevant Tax Period.400 For example, a Taxable Person with a Financial Year"
+      },
+      {
+        "rank": 4,
+        "chunk_id": 233,
+        "cosine_score": 0.4575,
+        "rerank_score": -0.1321,
+        "page": 50,
+        "text": "Accrual Basis of Accounting in exceptional circumstances.116 \n \n6.2.1. \nTax Period \n \nA Taxable Person’s (other than a natural person) Tax Period is their Financial Year, \nor part thereof, for which a Tax Return is required to be filed.117 This is usually the 12 \nmonth period for which they prepare their Financial Statements. If the Taxable Person \ndoes not prepare Financial Statements, their Financial Year will be the Gregorian \ncalendar year (i.e. 1 January - 31 December).118 The Tax Period of a Taxable Person \nwhich is a natural person is always the Gregorian calendar year."
+      },
+      {
+        "rank": 5,
+        "chunk_id": 397,
+        "cosine_score": 0.4053,
+        "rerank_score": -1.2856,
+        "page": 83,
+        "text": "• \nThe Taxable Person must first determine their Accounting Income. This will be \nbased on Financial Statements prepared according to accounting standards \nrecognised in the UAE (IFRS or IFRS for SMEs). Qualifying Free Zone Persons \nand any other Taxable Persons with revenue over AED 50 million must prepare \nand maintain audited Financial Statements. \n• \nThe second step is to apply the relevant adjustments to the Accounting Income \nto arrive at the Taxable Income amount.239 \n \nTaxable Persons have to submit a Tax Return to the FTA within 9 months after the \nend of each Tax Period.240"
+      }
+    ]
+  },
+  {
+    "num": 5,
+    "question": "My free-zone company made AED 2 million profit — do I pay 0%?",
+    "category": "Conditional",
+    "answer": "To determine if your free-zone company can benefit from the 0% Corporate Tax rate, it is essential to know whether the profit is considered Qualifying Income. If the entire AED 2 million profit is classified as Qualifying Income, then you would pay 0%. However, if any portion of the profit is not Qualifying Income, that portion will be subject to the general tax rate of 9%. \n\nSince the context does not specify the nature of your profit, you should consult the relevant Cabinet and Ministerial Decisions regarding Qualifying Income and activities to confirm your eligibility. \n\nSource: page 112 of CTGGCT1.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": 526,
+        "cosine_score": 0.685,
+        "rerank_score": 0.9797,
+        "page": 112,
+        "text": "benefit from the 0% rate.  \n \nUnlike ordinary Taxable Persons, Qualifying Free Zone Persons are not entitled to a \n0% rate on their first AED 375,000 of Taxable Income that is not Qualifying Income. \nTherefore, any Taxable Income that is not Qualifying Income will be subject to tax at \nthe general rate of 9%. \n \n9.2.3. \nWithholding Tax rate \n \nAt the time of enacting the Corporate Tax Law, the rate of Withholding Tax was 0%.351 \nWithholding Tax should be deducted by a Resident Person from a payment made to \na Non-Resident for certain categories of State Sourced Income derived by the Non-"
+      },
+      {
+        "rank": 2,
+        "chunk_id": 150,
+        "cosine_score": 0.6222,
+        "rerank_score": 0.0744,
+        "page": 33,
+        "text": "consult Cabinet Decision No. 55 of 2023 on Determining Qualifying Income for the \nQualifying Free Zone Person50 and the Ministerial Decision No. 139 of 2023 Regarding \nQualifying Activities and Excluded Activities.51 \n \n5.5.1. \nQualifying Income \n \nQualifying Income is the income that can benefit from the 0% Corporate Tax rate.  \n \nUnlike ordinary Taxable Persons, Qualifying Free Zone Persons are not entitled to a \n0% rate on their first AED 375,000 of Taxable Income that is not considered as \nQualifying Income. Therefore, any Taxable Income that is not Qualifying Income will"
+      },
+      {
+        "rank": 3,
+        "chunk_id": 90,
+        "cosine_score": 0.6152,
+        "rerank_score": -0.2921,
+        "page": 21,
+        "text": "General Corporate Tax Guide | Corporate Tax | CTGGCT1 \n20 \n• \n9% (nine percent) on the portion of the Taxable Income exceeding AED \n375,000. \n \nExample 1: Calculation of Corporate Tax \n \nA LLC is a company incorporated in the UAE. In the Tax Period ending March 2025, A \nLLC generated Revenue of AED 8 million and incurred expenses of AED 2 million, \nresulting in a net profit of AED 6 million per its Financial Statements. \n \nA LLC’s Taxable Income for its Tax Period will be the accounting net profit (or loss) of"
+      },
+      {
+        "rank": 4,
+        "chunk_id": 173,
+        "cosine_score": 0.6282,
+        "rerank_score": -0.7412,
+        "page": 38,
+        "text": "During the Tax Period, it undertakes a small number of transactions with individuals \nand earns AED 4,500,000 of Revenue. The remaining AED 75,500,000 meets the \nrequirements to be considered as Qualifying Income. \n \nAs transactions with individuals are generally Excluded Activities, and Revenue from \nthese sales exceeded the de minimis threshold of AED 4,000,000 (being the lower of \n5% of AED 80,000,000 and AED 5,000,000), H LLC will not be eligible to be a Qualifying \nFree Zone Person. \n \n \nFamily Foundations"
+      },
+      {
+        "rank": 5,
+        "chunk_id": 387,
+        "cosine_score": 0.587,
+        "rerank_score": -1.0297,
+        "page": 81,
+        "text": "Taxable Income of AED 5,000,000 in this Tax Period.  \n \nC LLC will have a final Taxable Income of AED 2,750,000 (AED 5,000,000 – AED \n2,250,000). This means that C LLC must pay Corporate Tax of AED 213,750 (AED \n375,000 x 0% + AED 2,375,000 x 9%). C LLC will have no Tax Losses to carry forward. \n \n(Amounts in AED) \n31/12/2026 \n31/12/2027 \n31/12/2028 \nTaxable Income (pre-Tax \nLoss relief)  \n(6,000,000) \n5,000,000 \n5,000,000 \nTax Loss utilised  \n0 \n3,750,000 \n2,250,000 \nFinal Taxable Income \n0 \n1,250,000 \n2,750,000 \nTax Loss carried forward 6,000,000 \n2,250,000 \n0 \nCorporate Tax Payable \n0"
+      }
+    ]
+  },
+  {
+    "num": 6,
+    "question": "My business is tiny with very low revenue. Is there relief so I pay nothing?",
+    "category": "Conditional",
+    "answer": "Yes, if your business qualifies as a small business and your Revenue does not exceed the small business relief threshold of AED 3,000,000 per Tax Period, you may benefit from small business relief. This means you would not need to calculate your Taxable Income or complete a full Tax Return, and you would be treated as having no Taxable Income for that Tax Period. However, you must make an election in your Tax Return to benefit from this relief. Additionally, you must meet compliance obligations, including registering for Corporate Tax purposes and filing a Tax Return. \n\nSource: page 89 of CTGGCT1.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": 424,
+        "cosine_score": 0.5641,
+        "rerank_score": -0.758,
+        "page": 89,
+        "text": "has never exceeded the small business relief threshold of AED 3,000,000 per Tax \nPeriod in any Tax Period. In the most recent Tax Period ending 31 December 2025, Mr \nX derived Revenue of AED 2,000,000.  \n \nMr X is eligible to benefit from small business relief as his Revenue for the 31 December \n2025 Tax Period does not exceed AED 3,000,000, which is also the case for previous \nyears’ Tax Periods. In order to benefit from the relief, he must make an election in his \nTax Return. \n \nMr X will be treated as having no Taxable Income for the 31 December 2025 Tax Period."
+      },
+      {
+        "rank": 2,
+        "chunk_id": 95,
+        "cosine_score": 0.5512,
+        "rerank_score": -0.8502,
+        "page": 22,
+        "text": "natural persons, can potentially benefit from small business relief if they meet the \nrelevant requirements. This means that these businesses would not need to pay \nCorporate Tax (see Section 7.2) but they will be required to meet the compliance \nobligations provided for in the Corporate Tax Law for each Tax Period. This includes \nthe obligation to register for Corporate Tax purposes, file a Tax Return and retain all \nrelevant documents and records to support their Corporate Tax filings.  \n \nProvided that the relevant conditions are met, certain categories of Persons, known"
+      },
+      {
+        "rank": 3,
+        "chunk_id": 423,
+        "cosine_score": 0.5419,
+        "rerank_score": -1.0407,
+        "page": 89,
+        "text": "General Corporate Tax Guide | Corporate Tax | CTGGCT1 \n88 \nFor further details on small business relief, readers are advised to consult Ministerial \nDecision No. 73 of 2023 on Small Business Relief, and the Corporate Tax Guide on \nSmall Business Relief.  \n \nExample 27: Electing for small business relief \n \nMr X operates a Business in Abu Dhabi. He is a Resident Person for Corporate Tax \nPurposes. His Tax Period ends on 31 December each year. To date, Mr X’s Revenue \nhas never exceeded the small business relief threshold of AED 3,000,000 per Tax"
+      },
+      {
+        "rank": 4,
+        "chunk_id": 232,
+        "cosine_score": 0.5106,
+        "rerank_score": -2.1045,
+        "page": 50,
+        "text": "For example, eligible businesses may benefit from small business relief, meaning they \ndo not need to calculate their Taxable Income and have reduced record keeping \nrequirements (see Section 7.2).114 \n \nTaxable Persons can prepare Financial Statements using the Cash Basis of \nAccounting rather than the Accrual Basis of Accounting if their Revenue does not \nexceed AED 3,000,000 for the relevant Tax Period.115 Businesses may also be able \nto apply to the FTA to make use of the Cash Basis of Accounting rather than the \nAccrual Basis of Accounting in exceptional circumstances.116 \n \n6.2.1."
+      },
+      {
+        "rank": 5,
+        "chunk_id": 420,
+        "cosine_score": 0.5752,
+        "rerank_score": -2.1362,
+        "page": 88,
+        "text": "be obliged to calculate its Taxable Income or complete a full Tax Return.249 Where a \nTaxable Person has elected to benefit from small business relief, they will still be able \nto carry forward any unutilised Tax Losses 250  and disallowed Net Interest \nExpenditure251 arising from prior Tax Periods to be used in future Tax Periods in which \nsmall business relief no longer applies. \n \nTo be eligible for small business relief, the Taxable Person in question must not be a \nConstituent Company of a Multinational Enterprise that is required to prepare a"
+      }
+    ]
+  },
+  {
+    "num": 7,
+    "question": "My profit is below the threshold — do I still have to register at all?",
+    "category": "Conditional",
+    "answer": "If you are a Taxable Person, you are required to register for Corporate Tax with the FTA and obtain a Tax Registration Number, regardless of your profit level. However, if you are a Non-Resident Person without a Permanent Establishment in the UAE and only earn State Sourced Income, you can choose not to register. If you have a nexus in the UAE, such as earning income from Immovable Property, you are required to register. \n\nSource: page 116 of CTGGCT1.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": 542,
+        "cosine_score": 0.4266,
+        "rerank_score": -7.0488,
+        "page": 116,
+        "text": "All Taxable Persons should register for Corporate Tax with the FTA and obtain a Tax \nRegistration Number for Corporate Tax.361 This needs to be done before a deadline to \nbe determined by the FTA. All Taxable Persons are encouraged to register for \nCorporate Tax as soon as they become aware that they will be within the scope of \nCorporate Tax. \n \nNon-Resident Persons that do not have a Permanent Establishment in the UAE and \nonly earn State Sourced Income can choose not to register for Corporate Tax \npurposes. However, Non-Resident Persons that have a nexus in the UAE (arising from"
+      },
+      {
+        "rank": 2,
+        "chunk_id": 543,
+        "cosine_score": 0.4368,
+        "rerank_score": -7.5444,
+        "page": 116,
+        "text": "purposes. However, Non-Resident Persons that have a nexus in the UAE (arising from \nearning income from Immovable Property in the UAE – see Section 5.4.4) are required \nto register.362 \n \nThe FTA can, at its discretion, register a Person for Corporate Tax if, on the basis of \ninformation available to it, the FTA believes the Person is a Taxable Person.363 \n \nIf a Corporate Tax registered Person ceases to be a Taxable Person for any reason, \nthey should file a Tax Deregistration application with the FTA.364 Tax Deregistration"
+      },
+      {
+        "rank": 3,
+        "chunk_id": 173,
+        "cosine_score": 0.4616,
+        "rerank_score": -7.6005,
+        "page": 38,
+        "text": "During the Tax Period, it undertakes a small number of transactions with individuals \nand earns AED 4,500,000 of Revenue. The remaining AED 75,500,000 meets the \nrequirements to be considered as Qualifying Income. \n \nAs transactions with individuals are generally Excluded Activities, and Revenue from \nthese sales exceeded the de minimis threshold of AED 4,000,000 (being the lower of \n5% of AED 80,000,000 and AED 5,000,000), H LLC will not be eligible to be a Qualifying \nFree Zone Person. \n \n \nFamily Foundations"
+      },
+      {
+        "rank": 4,
+        "chunk_id": 220,
+        "cosine_score": 0.4133,
+        "rerank_score": -8.0137,
+        "page": 47,
+        "text": "Extractive Businesses and Non-Extractive Natural Resource Businesses to register \nwith the FTA for Corporate Tax purposes, if they do not have a Business or Business \nActivity that is subject to Corporate Tax.109 However, Exempt Persons are required to \nmaintain records which evidence their exempt status for 7 years from the end of the \nTax Period to which they relate. 110  This includes any information, accounts, \ndocuments and records to enable the Exempt Person’s status to be readily \nascertained by the FTA."
+      },
+      {
+        "rank": 5,
+        "chunk_id": 424,
+        "cosine_score": 0.4395,
+        "rerank_score": -9.1132,
+        "page": 89,
+        "text": "has never exceeded the small business relief threshold of AED 3,000,000 per Tax \nPeriod in any Tax Period. In the most recent Tax Period ending 31 December 2025, Mr \nX derived Revenue of AED 2,000,000.  \n \nMr X is eligible to benefit from small business relief as his Revenue for the 31 December \n2025 Tax Period does not exceed AED 3,000,000, which is also the case for previous \nyears’ Tax Periods. In order to benefit from the relief, he must make an election in his \nTax Return. \n \nMr X will be treated as having no Taxable Income for the 31 December 2025 Tax Period."
+      }
+    ]
+  },
+  {
+    "num": 8,
+    "question": "I personally earn rent from a flat I own. Is that taxed?",
+    "category": "Conditional",
+    "answer": "Income from Personal Investments, such as rent earned from a flat owned by a natural person, is not subject to Corporate Tax. This is because such income is considered to be derived in a personal capacity and not through a business or commercial activity. \n\nSource: page 28 of CTGGCT1.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": 481,
+        "cosine_score": 0.4173,
+        "rerank_score": -6.0312,
+        "page": 100,
+        "text": "personal travel or home rent given that neither of this expenditure is incurred for the \npurposes of the business.  \n                                               \n303 Article 3(2) of Ministerial Decision No. 127 of 2023. \n304 Ministerial Decision No. 127 of 2023 and Ministerial Decision No. 134 of 2023. \n305 Article 16(3) of the Corporate Tax Law. \n306 Article 16(3) of the Corporate Tax Law. \n307 Article 16(4)(a) of the Corporate Tax Law. \n308 Article 16(4)(b) of the Corporate Tax Law."
+      },
+      {
+        "rank": 2,
+        "chunk_id": 263,
+        "cosine_score": 0.4031,
+        "rerank_score": -7.0444,
+        "page": 56,
+        "text": "taxed under the Corporate Tax regime. This exemption also covers distributions made \nby a Resident Free Zone juridical person (whether qualifying or not) to another \nResident Person. \n \nExample 10: Distributions received from a juridical person that is a Resident \nPerson \n \nC LLC owns and operates a hotel in the UAE. C LLC’s Accounting Income for the Tax \nPeriod was AED 8,000,000.  \n \nThe income was mainly derived from operating the hotels it owns. However, it also owns \n50% of F LLC, a UAE resident company. During the Tax Period, F LLC paid C LLC AED"
+      },
+      {
+        "rank": 3,
+        "chunk_id": 473,
+        "cosine_score": 0.429,
+        "rerank_score": -7.5786,
+        "page": 99,
+        "text": "own. Therefore, they are only subject to Corporate Tax on income arising from \ncategories of Business and Business Activities that are subject to Corporate Tax for \nindividuals (see Section5.3.3).  \n \nHowever, the partners in an Unincorporated Partnership may make an application to \nthe FTA for the Unincorporated Partnership to be treated as a Taxable Person (i.e. to \nhave the Corporate Tax liability be determined and assessed at the level of the \npartnership).299 \n \nOnce the application is approved, and to the extent there are any individuals who are"
+      },
+      {
+        "rank": 4,
+        "chunk_id": 123,
+        "cosine_score": 0.3893,
+        "rerank_score": -7.8649,
+        "page": 28,
+        "text": "it does not include employment, and Corporate Tax does not apply to a natural \nperson’s salary, wages and other employment income. It also does not include income \nfrom Personal Investments and Real Estate Investments.16 \n \nIn this regard, Personal Investments are activities that a natural person undertakes in \ntheir personal capacity and not through a Licence (or not required to be undertaken \nthrough a Licence), and the activities are not considered a commercial business under \nFederal Decree-Law No. 50 of 2022 issuing the Commercial Transactions Law.17"
+      },
+      {
+        "rank": 5,
+        "chunk_id": 139,
+        "cosine_score": 0.3994,
+        "rerank_score": -8.0722,
+        "page": 31,
+        "text": "State Sourced Income may include: \n• \nincome from the sale of goods in the UAE;33 \n• \nincome from movable or Immovable Property in the UAE;34 or \n• \nincome from the disposal of shares of a Resident Person.35 \n \nIn instances where a Non-Resident Person earns State Sourced Income only and \nwhere this income is not attributable to a Permanent Establishment in the UAE, the \nincome is currently subject to a 0% Withholding Tax. Practically, this means no \nCorporate Tax liability arises in this situation. \n \n5.4.4. \nNon-resident juridical person that has a nexus in the UAE (derives"
+      }
+    ]
+  },
+  {
+    "num": 9,
+    "question": "As a free-zone company, what exactly counts as 'qualifying income' for the 0%?",
+    "category": "Multi-hop",
+    "answer": "Qualifying Income is the income that can benefit from the 0% Corporate Tax rate for Qualifying Free Zone Persons. It includes income earned from activities that meet the criteria set out in Cabinet Decision No. 55 of 2023 and the Ministerial Decision No. 139 of 2023. However, it is important to note that Qualifying Free Zone Persons are not entitled to the 0% rate on their first AED 375,000 of Taxable Income that is not considered as Qualifying Income. Therefore, any Taxable Income that does not qualify will be subject to the standard Corporate Tax rate of 9%. \n\nTo summarize, for income to be classified as Qualifying Income, it must be derived from activities that align with the definitions and requirements specified in the relevant decisions. \n\nSource: page 33 of CTGGCT1.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": 150,
+        "cosine_score": 0.7109,
+        "rerank_score": 6.262,
+        "page": 33,
+        "text": "consult Cabinet Decision No. 55 of 2023 on Determining Qualifying Income for the \nQualifying Free Zone Person50 and the Ministerial Decision No. 139 of 2023 Regarding \nQualifying Activities and Excluded Activities.51 \n \n5.5.1. \nQualifying Income \n \nQualifying Income is the income that can benefit from the 0% Corporate Tax rate.  \n \nUnlike ordinary Taxable Persons, Qualifying Free Zone Persons are not entitled to a \n0% rate on their first AED 375,000 of Taxable Income that is not considered as \nQualifying Income. Therefore, any Taxable Income that is not Qualifying Income will"
+      },
+      {
+        "rank": 2,
+        "chunk_id": 147,
+        "cosine_score": 0.7061,
+        "rerank_score": 4.8925,
+        "page": 32,
+        "text": "Qualifying Income.41 The 0% Corporate Tax rate is available to Qualifying Free Zone \n                                               \n38 Article 1 of Cabinet Decision No. 56 of 2023. \n39 Article 2(2) of Cabinet Decision No. 56 of 2023. \n40 Article 66 of the Corporate Tax Law. \n41 Article 3(2)(a) of the Corporate Tax Law."
+      },
+      {
+        "rank": 3,
+        "chunk_id": 524,
+        "cosine_score": 0.6767,
+        "rerank_score": 4.7206,
+        "page": 112,
+        "text": "General Corporate Tax Guide | Corporate Tax | CTGGCT1 \n111 \n9.2.2. \nCorporate Tax rates for Qualifying Free Zone Persons  \n \nCorporate Tax applies to Qualifying Free Zone Persons at the following rates:347 \n \nQualifying Income \n0% \nTaxable Income that is not Qualifying Income \n9% \n \nThe Corporate Tax rate applied to Qualifying Free Zone Persons depends on whether \nincome is Qualifying Income or not (see Section 5.5). \n \nA Qualifying Free Zone Person is subject to the standard 9% Corporate Tax rate \nwithout being disqualified from the Free Zone regime on the following income: \n \n•"
+      },
+      {
+        "rank": 4,
+        "chunk_id": 99,
+        "cosine_score": 0.6738,
+        "rerank_score": 4.6457,
+        "page": 23,
+        "text": "General Corporate Tax Guide | Corporate Tax | CTGGCT1 \n22 \nA 0% rate of Corporate Tax applies to Qualifying Income earned by certain Free Zone \nentities (known as Qualifying Free Zone Persons). Further details can be found in \nSection 5.5 and Section 9.2.2.  \n \nThe Corporate Tax regime also includes targeted reliefs designed to allow certain \nintra-group transactions to be undertaken without giving rise to a Corporate Tax \nliability. These are set out in Chapter 7. \n \nWhere Persons conduct Business together, either as groups of companies related by"
+      },
+      {
+        "rank": 5,
+        "chunk_id": 171,
+        "cosine_score": 0.6986,
+        "rerank_score": 4.3862,
+        "page": 38,
+        "text": "General Corporate Tax Guide | Corporate Tax | CTGGCT1 \n37 \nExample 4: Qualifying Income \n \nF LLC and G LLC are both Free Zone Persons. F LLC (a Qualifying Free Zone Person) \nowns a number of warehouses located in a Free Zone. \nDuring the Tax Period, F LLC sells one of its warehouses to G LLC. As the transaction \nis between two Free Zone Persons, and the sale relates to Commercial Property in a \nFree Zone, the income earned on the sale is Qualifying Income and is eligible for the \n0% Corporate Tax rate subject to meeting the other relevant requirements.  \n \nExample 5: De minimis requirements"
+      }
+    ]
+  },
+  {
+    "num": 10,
+    "question": "Can my group of companies be taxed as one, and what must we meet?",
+    "category": "Multi-hop",
+    "answer": "Yes, your group of companies can be taxed as one by forming a Tax Group, but you must meet certain conditions. The Parent Company must apply to the FTA, and both the Parent Company and its Subsidiaries must be resident juridical persons under the Corporate Tax Law and under a relevant Double Taxation Agreement (if applicable). They must also have the same Financial Year and prepare their Financial Statements using the same accounting standards. Additionally, no member of the Tax Group can be an Exempt Person or Qualifying Free Zone Person. Ownership requirements include that the Parent Company must directly or indirectly own at least 95% of the share capital, hold at least 95% of the voting rights, and be entitled to at least 95% of the Subsidiary’s profits and net assets. \n\nSource: page 104 of CTGGCT1.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": 521,
+        "cosine_score": 0.546,
+        "rerank_score": 0.3353,
+        "page": 110,
+        "text": "to form a single Taxable Person. If individual companies form a Tax Group, or an \nUnincorporated Partnership applies to be taxed at the partnership level, only the \nTaxable Person (i.e. either the Tax Group or the partnership) will be able to apply the \n0% rate to the first AED 375,000 of its collective Taxable Income. \n \nFor further details on the Taxable Income threshold, readers are advised to consult \nCabinet Decision No. 116 of 2022 on the Taxable Income Threshold.  \n \n \n \n \n \n                                               \n346 Article 3(1) of the Corporate Tax Law."
+      },
+      {
+        "rank": 2,
+        "chunk_id": 494,
+        "cosine_score": 0.5614,
+        "rerank_score": -0.526,
+        "page": 103,
+        "text": "relevant conditions.317 This allows the Tax Group to be treated as a single Taxable \nPerson, reducing the compliance burden on individual companies by consolidating \naccounts and eliminating intra-group transactions, and increasing flexibility in the \nutilisation of Tax Losses.318 \n \nBusinesses and business activities conducted by a Government Entity can also apply \nfor this treatment.319 \n \nFor further details on Tax Groups, readers are advised to consult the relevant \nMinisterial Decisions, including Ministerial Decision No. 125 of 2023 on Tax Groups.320"
+      },
+      {
+        "rank": 3,
+        "chunk_id": 496,
+        "cosine_score": 0.6164,
+        "rerank_score": -0.8239,
+        "page": 104,
+        "text": "General Corporate Tax Guide | Corporate Tax | CTGGCT1 \n103 \n8.3.1. \nRequirements to form a Tax Group \n \nIn order to form a Tax Group, a Parent Company must make an application to the FTA. \nThe application must be made by the Parent Company and each of the Subsidiaries \nseeking to become members of the Tax Group. Both the Parent Company and its \nSubsidiaries must be resident juridical persons under the Corporate Tax Law and \nunder a relevant Double Taxation Agreement (if applicable), have the same Financial \nYear, and prepare their Financial Statements using the same accounting standards.321"
+      },
+      {
+        "rank": 4,
+        "chunk_id": 506,
+        "cosine_score": 0.5874,
+        "rerank_score": -0.8536,
+        "page": 106,
+        "text": "General Corporate Tax Guide | Corporate Tax | CTGGCT1 \n105 \nthe Tax Group.337 This liability can be limited to one or more members of the Tax \nGroup if approved by the FTA.338 \n \n8.3.5. \nTaxable Income of a Tax Group \n \nTo determine the Taxable Income of a Tax Group, the Parent Company must \nconsolidate the financial accounts of each subsidiary for the relevant Tax Period by \nthe way of aggregation. It must eliminate transactions between the members of a Tax \nGroup, including adjustments from valuations, and transactions between two or more \nmembers of the same Tax Group.339"
+      },
+      {
+        "rank": 5,
+        "chunk_id": 497,
+        "cosine_score": 0.5711,
+        "rerank_score": -1.5513,
+        "page": 104,
+        "text": "Year, and prepare their Financial Statements using the same accounting standards.321 \nNo member of the Tax Group can be an Exempt Person322 or Qualifying Free Zone \nPerson.323 \n \nIn addition, there are ownership requirements such that the Parent Company must \ndirectly or indirectly: \n \n• \nown at least 95% of the share capital of the Subsidiary;324 \n• \nhold at least 95% of the voting rights in the Subsidiary;325 and \n• \nbe entitled to at least 95% of the Subsidiary’s profits and net assets.326 \n \nA Parent Company or Subsidiary must not be considered resident for tax purposes in"
+      }
+    ]
+  },
+  {
+    "num": 11,
+    "question": "My business made a loss last year — can I use it to cut this year's tax?",
+    "category": "Multi-hop",
+    "answer": "Yes, you can use the loss from last year to reduce this year's taxable income, provided you meet certain conditions. Specifically, you must carry forward the tax loss and can offset it against your taxable income in subsequent tax periods. However, you can only use up to 75% of your taxable income for that period to offset the carried forward tax losses. Additionally, you cannot claim tax loss relief for the tax period in which you elected to benefit from small business relief. \n\nSource: page 79 of CTGGCT1.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": 379,
+        "cosine_score": 0.6016,
+        "rerank_score": 1.6519,
+        "page": 79,
+        "text": "Businesses who have a Tax Loss will be able to use the Tax Loss to reduce Taxable \nIncome in future Tax Periods (provided the necessary conditions are met).228 This is \nto ensure that the amount of Corporate Tax paid by Businesses would (subject to \ncertain conditions) be the same irrespective of when such profits or losses arise. In \ncertain circumstances, Tax Losses can also be used to offset against the Taxable \nIncome of another Business.  \n \nA Taxable Person cannot claim Tax Loss relief for:229 \n \n• \nLosses incurred before the date of commencement of Corporate Tax;  \n•"
+      },
+      {
+        "rank": 2,
+        "chunk_id": 378,
+        "cosine_score": 0.5861,
+        "rerank_score": 1.5103,
+        "page": 79,
+        "text": "Tax Losses \n \nWhere a Taxable Person’s deductible expenditure exceeds its income that is subject \nto Corporate Tax, it will have negative Taxable Income. This is known as a Tax Loss. \nMany businesses make losses at some point in their lifecycle. For example, a new \nbusiness may initially have losses while it is investing in growing its Business, or a \nmore mature Business may make a loss over a period because of a temporary, \nadverse trading environment.  \n \nBusinesses who have a Tax Loss will be able to use the Tax Loss to reduce Taxable"
+      },
+      {
+        "rank": 3,
+        "chunk_id": 383,
+        "cosine_score": 0.5485,
+        "rerank_score": -0.975,
+        "page": 80,
+        "text": "use all of the Tax Losses in the current period and cannot choose to carry these Tax \nLosses forward.232 Tax Losses cannot be carried back to previous Tax Periods. \n \nExample 22: Carried forward Tax Losses \n \nC LLC is a UAE resident company. In the Tax Period ending 31 December 2026 it \nmakes a Tax Loss of AED 6,000,000. \n \nFor the Tax Periods ending 31 December 2027 and 31 December 2028 respectively, C \nLLC has Taxable Income of AED 5,000,000 per year.  \n \nC LLC will be subject to Corporate Tax as follows: \n• In the Tax Period ending on 31 December 2026, C LLC makes a Tax Loss and there"
+      },
+      {
+        "rank": 4,
+        "chunk_id": 404,
+        "cosine_score": 0.4991,
+        "rerank_score": -1.9219,
+        "page": 85,
+        "text": "General Corporate Tax Guide | Corporate Tax | CTGGCT1 \n84 \nAdd: Entertainment expenditure \n250,000 \nTaxable Income \n7,750,000 \n \nC LLC can use its carried forward Tax Losses to reduce its Taxable Income by up to \n75% of its Taxable Income. As the amount of carried forward Tax Losses of AED \n2,000,000 is less than 75% of its Taxable Income (AED 7,750,000 x 75% = AED \n5,812,500), C LLC can use all of its available Tax Losses in this Tax Period.  \n \nC LLC’s final Taxable Income is therefore: \nTaxable Income \n7,750,000 \nLess: Tax Losses \n(2,000,000) \nFinal Taxable Income \n5,750,000"
+      },
+      {
+        "rank": 5,
+        "chunk_id": 381,
+        "cosine_score": 0.5598,
+        "rerank_score": -2.9281,
+        "page": 80,
+        "text": "General Corporate Tax Guide | Corporate Tax | CTGGCT1 \n79 \nA Taxable Person cannot claim Tax Losses for the Tax Period in which they have \nelected to benefit from small business relief.  \n \n6.7.1. \nTax Loss relief \n \nA Taxable Person can carry forward Tax Losses and offset them against Taxable \nIncome in subsequent Tax Periods, subject to meeting certain conditions.230 These \nTax Losses carried forward can be used to reduce the Taxable Person’s income in the \nTax Period by a maximum of 75% of that Taxable Income. 231 This ensures that"
+      }
+    ]
+  },
+  {
+    "num": 12,
+    "question": "What records must I keep, and for how long, to stay compliant?",
+    "category": "Multi-hop",
+    "answer": "To stay compliant, Taxable Persons and Exempt Persons must keep records and documents for seven years following the end of the Tax Period to which they relate. \n\nFor Taxable Persons, the records typically include:\n- A record of transactions in the Tax Period\n- A record of assets, including details of purchases or disposals\n- Order records and delivery notes\n- Other relevant business correspondence\n\nExempt Persons must maintain records that enable their exempt status to be readily ascertained by the FTA, and the documentation required will depend on the reason for their exemption.\n\nIt is important to note that the seven-year period starts from the end of the Tax Period to which the documents relate, not from when they were created. \n\nSource: page 123 of CTGGCT1.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": 577,
+        "cosine_score": 0.509,
+        "rerank_score": 2.6334,
+        "page": 123,
+        "text": "Taxable Persons and Exempt Persons must keep records and documents for seven \nyears following the end of the Tax Period to which they relate.412 \n \nThis requirement applies to the Tax Period to which the documents relate, and not the \nTax Period in which they were created. For example, if a Taxable Person uses the \ncash basis accounting method, they may have invoices or bills which were raised in a \nTax Period before the one in which they were paid. In this instance, the seven-year \nperiod starts from the Tax Period in which the invoices or bills were paid."
+      },
+      {
+        "rank": 2,
+        "chunk_id": 576,
+        "cosine_score": 0.4618,
+        "rerank_score": 2.1317,
+        "page": 123,
+        "text": "General Corporate Tax Guide | Corporate Tax | CTGGCT1 \n122 \n• \nAED 10,000 for each violation; \n• \nAED 20,000 in each case of repeated violation within 24 months from the date \nof the last violation.410 \n \n10.7.1. \nExempt Persons \n \nExempt Persons must maintain records that enable the Exempt Person’s status to be \nreadily ascertained by the FTA.411 The documentation required will depend on the \nreason that a Person is exempt from Corporate Tax. \n \n10.7.2. \nHow long should records be kept? \n \n \nTaxable Persons and Exempt Persons must keep records and documents for seven"
+      },
+      {
+        "rank": 3,
+        "chunk_id": 220,
+        "cosine_score": 0.4121,
+        "rerank_score": -0.2385,
+        "page": 47,
+        "text": "Extractive Businesses and Non-Extractive Natural Resource Businesses to register \nwith the FTA for Corporate Tax purposes, if they do not have a Business or Business \nActivity that is subject to Corporate Tax.109 However, Exempt Persons are required to \nmaintain records which evidence their exempt status for 7 years from the end of the \nTax Period to which they relate. 110  This includes any information, accounts, \ndocuments and records to enable the Exempt Person’s status to be readily \nascertained by the FTA."
+      },
+      {
+        "rank": 4,
+        "chunk_id": 574,
+        "cosine_score": 0.5396,
+        "rerank_score": -2.7514,
+        "page": 122,
+        "text": "• \nOrder records and delivery notes; and \n• \nOther relevant business correspondence. \n \nThere is no requirement that these documents are maintained in their original format \nand it may be possible to keep them in an alternative format. For example, paper \nreceipts could be scanned and stored electronically.  \n \nFailure of a Taxable Person to keep the required records and other information \nspecified in the Tax Procedures Law and Corporate Tax Law will result in one of the \nfollowing penalties: \n \n                                               \n408 Article 56(1)(b) of the Corporate Tax Law."
+      },
+      {
+        "rank": 5,
+        "chunk_id": 572,
+        "cosine_score": 0.5347,
+        "rerank_score": -2.8032,
+        "page": 122,
+        "text": "records or documentation should be maintained, or the format in which they should be \nkept. This reflects the fact that the records and documentation required will differ \naccording to the type and complexity of the Business that the Taxable Person \nconducts. \n \nNotwithstanding differences between Taxable Persons, the information maintained \nshould typically include, but it is not limited to: \n \n• \nA record of the Taxable Person’s transactions in the Tax Period; \n• \nA record of the Taxable Person’s assets, including details of any purchases or \ndisposals; \n•"
+      }
+    ]
+  },
+  {
+    "num": 13,
+    "question": "I freelance from home in Dubai with no trade licence — do I owe corporate tax?",
+    "category": "Describe-your-business",
+    "answer": "As a natural person freelancing from home in Dubai, you would only be subject to Corporate Tax on the Taxable Income derived from your business activity in the UAE. However, if you do not have a trade license, it may affect your ability to be recognized as a Taxable Person. If your income is not considered taxable or if you do not meet the criteria for registration, you may not owe Corporate Tax. It is advisable to consult with the FTA or a tax professional to clarify your specific situation. \n\nSource: page 49 of CTGGCT1.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": 228,
+        "cosine_score": 0.5492,
+        "rerank_score": -2.3911,
+        "page": 49,
+        "text": "and outside the UAE.  \n• \nNon-Resident Persons with a Permanent Establishment or a nexus in the UAE \nare subject to Corporate Tax on income attributable to that Permanent \nEstablishment or nexus. If the Non-Resident does not have a Permanent \nEstablishment or a nexus in the UAE but derives income from the UAE, that \nincome would be subject to withholding tax at the rate of 0%.  \n• \nNatural persons are only subject to Corporate Tax on the Taxable Income of \ntheir Business or Business Activity derived from the UAE, or from outside the"
+      },
+      {
+        "rank": 2,
+        "chunk_id": 542,
+        "cosine_score": 0.5777,
+        "rerank_score": -3.4651,
+        "page": 116,
+        "text": "All Taxable Persons should register for Corporate Tax with the FTA and obtain a Tax \nRegistration Number for Corporate Tax.361 This needs to be done before a deadline to \nbe determined by the FTA. All Taxable Persons are encouraged to register for \nCorporate Tax as soon as they become aware that they will be within the scope of \nCorporate Tax. \n \nNon-Resident Persons that do not have a Permanent Establishment in the UAE and \nonly earn State Sourced Income can choose not to register for Corporate Tax \npurposes. However, Non-Resident Persons that have a nexus in the UAE (arising from"
+      },
+      {
+        "rank": 3,
+        "chunk_id": 137,
+        "cosine_score": 0.5858,
+        "rerank_score": -4.0231,
+        "page": 30,
+        "text": "Any Person that is a Non-Resident Person and receives State Sourced Income is \nsubject to Corporate Tax on this income by way of Withholding Tax if the income is \nnot attributable to a Permanent Establishment of the Non-Resident Person in the \nUAE.29 \n                                               \n25 Article 14(5) of the Corporate Tax Law. \n26 Article 14(3)(d) of the Corporate Tax Law. \n27 Article 14(7)(a) of the Corporate Tax Law. \n28 Article 2(1) of Ministerial Decision No. 83 of 2023. \n29 Article 12(3)(b) of the Corporate Tax Law."
+      },
+      {
+        "rank": 4,
+        "chunk_id": 543,
+        "cosine_score": 0.5745,
+        "rerank_score": -4.119,
+        "page": 116,
+        "text": "purposes. However, Non-Resident Persons that have a nexus in the UAE (arising from \nearning income from Immovable Property in the UAE – see Section 5.4.4) are required \nto register.362 \n \nThe FTA can, at its discretion, register a Person for Corporate Tax if, on the basis of \ninformation available to it, the FTA believes the Person is a Taxable Person.363 \n \nIf a Corporate Tax registered Person ceases to be a Taxable Person for any reason, \nthey should file a Tax Deregistration application with the FTA.364 Tax Deregistration"
+      },
+      {
+        "rank": 5,
+        "chunk_id": 96,
+        "cosine_score": 0.5589,
+        "rerank_score": -4.211,
+        "page": 22,
+        "text": "Provided that the relevant conditions are met, certain categories of Persons, known \nas Exempt Persons, are exempt from Corporate Tax, notably:  \n \n• \nPersons that are part of, or operate under the ownership and control of, the \nFederal Government or the Local Governments of the UAE;  \n• \ncertain entities that are established for specific public welfare or social aims, \nsuch as certain public benefit entities;  \n• \noil and gas and other Natural Resource activities that are taxed at the Emirate-\nlevel; and  \n• \ncertain pensions or social security funds and investment funds."
+      }
+    ]
+  },
+  {
+    "num": 14,
+    "question": "I run a free-zone online store selling to mainland UAE customers — how am I taxed?",
+    "category": "Describe-your-business",
+    "answer": "To determine how you are taxed as a Free Zone Person running an online store selling to mainland UAE customers, you need to consider the following conditions:\n\n1. **Qualifying Free Zone Person**: You must derive Qualifying Income from relevant transactions, maintain adequate substance in the UAE, satisfy the de minimis requirement, and not have elected to be subject to Corporate Tax under the general rates.\n\n2. **Revenue Threshold**: If your total Revenue exceeds a certain threshold, you may be subject to different tax obligations, including the requirement to prepare and maintain audited Financial Statements.\n\n3. **Tax Return Submission**: You are required to submit a Tax Return to the FTA within a specified timeframe after the end of each Tax Period.\n\nIf you meet the criteria for being a Qualifying Free Zone Person and have not elected to be subject to Corporate Tax, you may benefit from certain exemptions. However, if you do not meet these conditions, you may be subject to the Corporate Tax regime.\n\nSource: page 33 of CTGGCT1.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": 172,
+        "cosine_score": 0.6042,
+        "rerank_score": -0.2677,
+        "page": 38,
+        "text": "Example 5: De minimis requirements \n \nH LLC is a Free Zone Person that sells vehicles to other Free Zone Persons. During \nthe Tax Period it has a total Revenue of AED 80,000,000. H LLC maintains adequate \nsubstance in the Free Zone, has not made an election to be subject to UAE Corporate \nTax under the general rates, and complies with the transfer pricing rules and other \ndocumentation requirements set out in the Corporate Tax Law.  \n \nDuring the Tax Period, it undertakes a small number of transactions with individuals"
+      },
+      {
+        "rank": 2,
+        "chunk_id": 263,
+        "cosine_score": 0.6384,
+        "rerank_score": -1.3332,
+        "page": 56,
+        "text": "taxed under the Corporate Tax regime. This exemption also covers distributions made \nby a Resident Free Zone juridical person (whether qualifying or not) to another \nResident Person. \n \nExample 10: Distributions received from a juridical person that is a Resident \nPerson \n \nC LLC owns and operates a hotel in the UAE. C LLC’s Accounting Income for the Tax \nPeriod was AED 8,000,000.  \n \nThe income was mainly derived from operating the hotels it owns. However, it also owns \n50% of F LLC, a UAE resident company. During the Tax Period, F LLC paid C LLC AED"
+      },
+      {
+        "rank": 3,
+        "chunk_id": 148,
+        "cosine_score": 0.6287,
+        "rerank_score": -2.1326,
+        "page": 33,
+        "text": "General Corporate Tax Guide | Corporate Tax | CTGGCT1 \n32 \nPersons until the expiry of the tax incentive period provided for in the legislation of the \nrelevant Free Zone (unless renewed).42 \n \nIn order to be considered as a Qualifying Free Zone Person, a Free Zone Person must \nmeet the following requirements: \n \n• \nderive Qualifying Income from relevant transactions (see Section 5.5.1);43 \n• \nmaintain adequate substance in the UAE (see Section 5.5.4);44 \n• \nsatisfy the de minimis requirement (see Section 5.5.5);45 \n• \nhave not elected to be subject to Corporate Tax (see Section 5.5.6);46 \n•"
+      },
+      {
+        "rank": 4,
+        "chunk_id": 109,
+        "cosine_score": 0.5743,
+        "rerank_score": -2.6581,
+        "page": 25,
+        "text": "separate legal personality under the applicable UAE mainland legislation or Free Zone \nregulations. UAE branches of a domestic or foreign juridical person are regarded as \nan extension of their head office and, therefore, are not considered separate juridical \npersons.13 \n \n5.3.2. \nEffective management and control \n \nDetermining residence for Corporate Tax purposes solely on the basis of place of \nincorporation may not reflect the economic reality of where the business is actually \nmanaged or controlled. Accordingly, determination of residence for Corporate Tax"
+      },
+      {
+        "rank": 5,
+        "chunk_id": 397,
+        "cosine_score": 0.5768,
+        "rerank_score": -2.9504,
+        "page": 83,
+        "text": "• \nThe Taxable Person must first determine their Accounting Income. This will be \nbased on Financial Statements prepared according to accounting standards \nrecognised in the UAE (IFRS or IFRS for SMEs). Qualifying Free Zone Persons \nand any other Taxable Persons with revenue over AED 50 million must prepare \nand maintain audited Financial Statements. \n• \nThe second step is to apply the relevant adjustments to the Accounting Income \nto arrive at the Taxable Income amount.239 \n \nTaxable Persons have to submit a Tax Return to the FTA within 9 months after the \nend of each Tax Period.240"
+      }
+    ]
+  },
+  {
+    "num": 15,
+    "question": "We're a 3-person startup with no profit yet. Any corporate tax obligations?",
+    "category": "Describe-your-business",
+    "answer": "As a startup with no profit, you may be eligible for small business relief if you meet the relevant requirements. This means you would not need to pay Corporate Tax, but you are still required to meet compliance obligations under the Corporate Tax Law for each Tax Period. These obligations include registering for Corporate Tax purposes, filing a Tax Return, and retaining all relevant documents and records to support your Corporate Tax filings. \n\nIf your Revenue is equal to or below AED 3,000,000 in the relevant Tax Period and all previous Tax Periods (ending on or before 31 December 2026), you can elect to be treated as having no Taxable Income in that period, which would relieve you from the obligation to calculate your Taxable Income or complete a full Tax Return.\n\nSource: page 88 of CTGGCT1.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": 419,
+        "cosine_score": 0.4516,
+        "rerank_score": -4.5732,
+        "page": 88,
+        "text": "Corporate Tax burden and compliance costs in the Corporate Tax regime, primarily by \nalleviating the burden of having to calculate and pay Corporate Tax in each relevant \nTax Period where the conditions are satisfied.  \n \nAny eligible Taxable Person with Revenue equal to or below AED 3,000,000 in a \nrelevant Tax Period and all previous Tax Periods (ending on or before 31 December \n2026), can elect to be treated as having no Taxable Income in that period and will not \nbe obliged to calculate its Taxable Income or complete a full Tax Return.249 Where a"
+      },
+      {
+        "rank": 2,
+        "chunk_id": 95,
+        "cosine_score": 0.4711,
+        "rerank_score": -5.0991,
+        "page": 22,
+        "text": "natural persons, can potentially benefit from small business relief if they meet the \nrelevant requirements. This means that these businesses would not need to pay \nCorporate Tax (see Section 7.2) but they will be required to meet the compliance \nobligations provided for in the Corporate Tax Law for each Tax Period. This includes \nthe obligation to register for Corporate Tax purposes, file a Tax Return and retain all \nrelevant documents and records to support their Corporate Tax filings.  \n \nProvided that the relevant conditions are met, certain categories of Persons, known"
+      },
+      {
+        "rank": 3,
+        "chunk_id": 223,
+        "cosine_score": 0.443,
+        "rerank_score": -5.6678,
+        "page": 47,
+        "text": "subject to the obligations set out in the Corporate Tax Law, including, for example, to \nregister for Corporate Tax and file a Tax Return in relation to their taxable Business or \nBusiness Activity.112 \n \n \n \n \n                                               \n108 Article 10(1)(c) of the Corporate Tax Law. \n109 Article 2(1) of Ministerial Decision No. 43 of 2023. \n110 Article 56(2) of the Corporate Tax Law. \n111 Article 5(2) of the Corporate Tax Law. \n112 Articles 5(3) and 5(4) of the Corporate Tax Law."
+      },
+      {
+        "rank": 4,
+        "chunk_id": 100,
+        "cosine_score": 0.4347,
+        "rerank_score": -6.5778,
+        "page": 23,
+        "text": "Where Persons conduct Business together, either as groups of companies related by \nownership, or as partnerships, special rules may apply for the calculation and payment \nof Corporate Tax. These are set out in Chapter 8. \n \nTaxable Persons are required to self-assess their Corporate Tax liabilities by \nsubmitting a Tax Return on an annual basis and to pay the Corporate Tax liability to \nthe FTA. Tax Returns must be filed and payments made within nine months from the \nend of the Taxable Person’s Tax Period (see Section 10.5)."
+      },
+      {
+        "rank": 5,
+        "chunk_id": 473,
+        "cosine_score": 0.4664,
+        "rerank_score": -6.6646,
+        "page": 99,
+        "text": "own. Therefore, they are only subject to Corporate Tax on income arising from \ncategories of Business and Business Activities that are subject to Corporate Tax for \nindividuals (see Section5.3.3).  \n \nHowever, the partners in an Unincorporated Partnership may make an application to \nthe FTA for the Unincorporated Partnership to be treated as a Taxable Person (i.e. to \nhave the Corporate Tax liability be determined and assessed at the level of the \npartnership).299 \n \nOnce the application is approved, and to the extent there are any individuals who are"
+      }
+    ]
+  },
+  {
+    "num": 16,
+    "question": "My mainland trading company made AED 500,000 profit — roughly what do I owe?",
+    "category": "Describe-your-business",
+    "answer": "To determine what you owe, you need to consider that the corporate tax rate is 9% on the portion of the Taxable Income exceeding AED 375,000. Since your profit is AED 500,000, you would first subtract AED 375,000 from this amount, which leaves you with AED 125,000 that is subject to the 9% tax rate. \n\nTherefore, your tax liability will be calculated based on this excess amount. \n\nSource: page [21] of CTGGCT1.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": 400,
+        "cosine_score": 0.5394,
+        "rerank_score": -2.9561,
+        "page": 84,
+        "text": "election to exempt its income from its Foreign Permanent Establishment in Country B. \nC LLC also has carried forward Tax Losses of AED 2,000,000.  \n \nIts Accounting Income for the most recent Tax Period includes the following items: \n• Dividends received from UAE Resident companies: AED 1,000,000; \n• Income from its Foreign Permanent Establishment in Country B: AED 1,500,000; \n• Net Interest Expenditure: AED 7,000,000; and \n• Entertainment expenditure: AED 500,000. \n \nIn order to determine its Taxable Income, C LLC must make the following adjustments"
+      },
+      {
+        "rank": 2,
+        "chunk_id": 396,
+        "cosine_score": 0.5225,
+        "rerank_score": -3.1604,
+        "page": 83,
+        "text": "This gives F LLC a final Taxable Income of AED 500,000. The remaining AED 500,000 \nof unutilised losses is carried forward by C LLC to the subsequent Tax Period. \n \n(Amounts in AED) \nC LLC \nF LLC \nTaxable Income / (Loss) \n(2,000,000) \n2,000,000 \nTax Loss transferred  \n1,500,000 \n0 \nTax Losses received  \n0 \n(1,500,000) \nFinal Taxable Income / (Loss)  \n(500,000) \n500,000 \nTax Loss carried forward \n(500,000) \n0 \n \n \nDetermination of Taxable Income \n \nCalculating Taxable Income is a two-step process: \n \n• \nThe Taxable Person must first determine their Accounting Income. This will be"
+      },
+      {
+        "rank": 3,
+        "chunk_id": 335,
+        "cosine_score": 0.5234,
+        "rerank_score": -3.2233,
+        "page": 70,
+        "text": "Expenditure is then reduced to AED 5,000,000 (AED 7,500,000 – AED 2,500,000). The \nmaximum amount M LLC can claim as a deduction for Net Interest Expenditure in the \nTax Period ending December 2026 is AED 16,500,000. \n \nGiven that the Net Interest Expenditure is AED 14,000,000, and M LLC was allowed to \nutilise AED 16,500,000, a further deduction of AED 2,500,000 is made from Accounting \nIncome when calculating its Taxable Income. As above, the disallowed AED 4,000,000 \nwill also be adjusted for. \n \nThe remaining carried forward Net Interest Expenditure amount of AED 5,000,000 can"
+      },
+      {
+        "rank": 4,
+        "chunk_id": 90,
+        "cosine_score": 0.5479,
+        "rerank_score": -3.8834,
+        "page": 21,
+        "text": "General Corporate Tax Guide | Corporate Tax | CTGGCT1 \n20 \n• \n9% (nine percent) on the portion of the Taxable Income exceeding AED \n375,000. \n \nExample 1: Calculation of Corporate Tax \n \nA LLC is a company incorporated in the UAE. In the Tax Period ending March 2025, A \nLLC generated Revenue of AED 8 million and incurred expenses of AED 2 million, \nresulting in a net profit of AED 6 million per its Financial Statements. \n \nA LLC’s Taxable Income for its Tax Period will be the accounting net profit (or loss) of"
+      },
+      {
+        "rank": 5,
+        "chunk_id": 514,
+        "cosine_score": 0.5218,
+        "rerank_score": -3.9658,
+        "page": 107,
+        "text": "totalling AED 3,000,000, and C LLC spent AED 250,000 on client entertainment. C LLC \nhad AED 5,500,000 of brought forward Tax Losses from its previous Tax Period (1 \nSeptember 2025 - 31 August 2026). \n \nIn order to determine its Taxable Income for the period, C LLC must first consolidate, \nby way of aggregation, the Accounting Income of each company in the group and then \nmake the necessary tax adjustments, including applying its Tax Losses, at a group \nlevel."
+      }
+    ]
+  },
+  {
+    "num": 17,
+    "question": "How much VAT do I charge my customers?",
+    "category": "Trap / out-of-scope",
+    "answer": "This is not covered in the provided document.  \nSource: page [N] of CTGGCT1.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": 21,
+        "cosine_score": 0.3274,
+        "rerank_score": -8.9217,
+        "page": 4,
+        "text": "9.2.1. \nGeneral tax rates ......................................................................................... 109 \n9.2.2. \nCorporate Tax rates for Qualifying Free Zone Persons ................................ 111 \n9.2.3. \nWithholding Tax rate .................................................................................... 111 \n \nTax credits .......................................................................................................... 112"
+      },
+      {
+        "rank": 2,
+        "chunk_id": 347,
+        "cosine_score": 0.3262,
+        "rerank_score": -9.5874,
+        "page": 73,
+        "text": "General Corporate Tax Guide | Corporate Tax | CTGGCT1 \n72 \n• \nDividends, profit distributions or benefits of a similar nature paid to an owner of \nthe Taxable Person;197 \n• \nAmounts withdrawn from the Business by a natural person who is a Taxable \nPerson or a partner in an Unincorporated Partnership; 198 \n• \nCorporate Tax;199 \n• \nRecoverable input VAT;200 \n• \nTax on income imposed outside the UAE (however, tax relief may be available \nas a Foreign Tax Credit);201 and \n• \nContributions made by employers to a private pension fund in respect of its"
+      },
+      {
+        "rank": 3,
+        "chunk_id": 301,
+        "cosine_score": 0.3585,
+        "rerank_score": -10.7625,
+        "page": 64,
+        "text": "General Corporate Tax Guide | Corporate Tax | CTGGCT1 \n63 \nThroughout the Tax Period, Mr A recorded the mileage of his business and personal \njourneys. The mileage records revealed that journeys made for a business purpose \naccounted for 60% of the use of the van, while the remaining 40% of use related to Mr \nA’s personal use of the van. \n \nMr A’s Accounting Income for the Tax Period is AED 4,500,000. Vehicle expenses were \ncalculated to be AED 120,000.  \n \nThe vehicle expenses were not incurred wholly and exclusively for the purposes of Mr"
+      },
+      {
+        "rank": 4,
+        "chunk_id": 172,
+        "cosine_score": 0.3195,
+        "rerank_score": -10.7674,
+        "page": 38,
+        "text": "Example 5: De minimis requirements \n \nH LLC is a Free Zone Person that sells vehicles to other Free Zone Persons. During \nthe Tax Period it has a total Revenue of AED 80,000,000. H LLC maintains adequate \nsubstance in the Free Zone, has not made an election to be subject to UAE Corporate \nTax under the general rates, and complies with the transfer pricing rules and other \ndocumentation requirements set out in the Corporate Tax Law.  \n \nDuring the Tax Period, it undertakes a small number of transactions with individuals"
+      },
+      {
+        "rank": 5,
+        "chunk_id": 526,
+        "cosine_score": 0.3225,
+        "rerank_score": -10.8524,
+        "page": 112,
+        "text": "benefit from the 0% rate.  \n \nUnlike ordinary Taxable Persons, Qualifying Free Zone Persons are not entitled to a \n0% rate on their first AED 375,000 of Taxable Income that is not Qualifying Income. \nTherefore, any Taxable Income that is not Qualifying Income will be subject to tax at \nthe general rate of 9%. \n \n9.2.3. \nWithholding Tax rate \n \nAt the time of enacting the Corporate Tax Law, the rate of Withholding Tax was 0%.351 \nWithholding Tax should be deducted by a Resident Person from a payment made to \na Non-Resident for certain categories of State Sourced Income derived by the Non-"
+      }
+    ]
+  },
+  {
+    "num": 18,
+    "question": "What's the corporate tax rate in Saudi Arabia?",
+    "category": "Trap / out-of-scope",
+    "answer": "This is not covered in the provided document.  \nSource: page 20 of CTGGCT1.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": 87,
+        "cosine_score": 0.5011,
+        "rerank_score": -0.3377,
+        "page": 20,
+        "text": "Tax’ or ‘Business Profits Tax’ in other jurisdictions. \n \nCorporate Tax is charged on a wide range of Business profits, and those subject to \nCorporate Tax in the UAE include not only companies but also certain partnerships, \nunincorporated entities and natural persons conducting a Business or Business \nActivities.  \n \nCorporate Tax is paid on an annual basis with reference to the Tax Period of a Taxable \nPerson. A Tax Period is the Financial Year or part thereof for which a Tax Return \nneeds to be filed. The Financial Year is the period of 12 months for which Financial"
+      },
+      {
+        "rank": 2,
+        "chunk_id": 90,
+        "cosine_score": 0.5674,
+        "rerank_score": -0.9904,
+        "page": 21,
+        "text": "General Corporate Tax Guide | Corporate Tax | CTGGCT1 \n20 \n• \n9% (nine percent) on the portion of the Taxable Income exceeding AED \n375,000. \n \nExample 1: Calculation of Corporate Tax \n \nA LLC is a company incorporated in the UAE. In the Tax Period ending March 2025, A \nLLC generated Revenue of AED 8 million and incurred expenses of AED 2 million, \nresulting in a net profit of AED 6 million per its Financial Statements. \n \nA LLC’s Taxable Income for its Tax Period will be the accounting net profit (or loss) of"
+      },
+      {
+        "rank": 3,
+        "chunk_id": 89,
+        "cosine_score": 0.6543,
+        "rerank_score": -1.3088,
+        "page": 20,
+        "text": "Generally, Corporate Tax is imposed on Taxable Income at the following rates: \n• \n0% (zero percent) on the portion of the Taxable Income not exceeding AED \n375,000. \n                                               \n1 Article 57 of the Corporate Tax Law. \n2 Article 48 of the Corporate Tax Law. \n3 Article 69 of the Corporate Tax Law."
+      },
+      {
+        "rank": 4,
+        "chunk_id": 92,
+        "cosine_score": 0.5162,
+        "rerank_score": -1.7127,
+        "page": 21,
+        "text": "• The portion of the Taxable income exceeding AED 375,000 will be subject to \nCorporate Tax at 9%: (AED 6,000,000 - AED 375,000) x 9% = AED 5,625,000 x \n9% = AED 506,250 \n \nA LLC’s UAE Corporate Tax liability for the Tax Period will be AED 506,250. \n \nIn order to calculate its UAE Corporate Tax payable, A LLC will need to consider if there \nare any available tax credits to reduce its UAE Corporate Tax liability (see Section 9.3). \n \n \n \nSpecific rules cover the identification of Taxable Persons subject to Corporate Tax"
+      },
+      {
+        "rank": 5,
+        "chunk_id": 59,
+        "cosine_score": 0.5361,
+        "rerank_score": -1.7334,
+        "page": 14,
+        "text": "General Corporate Tax Guide | Corporate Tax | CTGGCT1 \n13 \n2. Introduction \n \n \nOverview \n \nFederal Decree-Law No. 47 of 2022 on the Taxation of Corporations and Businesses \n(“Corporate Tax Law”) was signed on 3 October 2022 and was published in Issue #737 \nof the Official Gazette of the United Arab Emirates (“UAE”) on 10 October 2022.  \n \nThe Corporate Tax Law provides the legislative basis for imposing a federal tax on \ncorporations and Business profits (“Corporate Tax”) in the UAE. \n \nThe provisions of the Corporate Tax Law shall apply to Tax Periods commencing on \nor after 1 June 2023."
+      }
+    ]
+  },
+  {
+    "num": 19,
+    "question": "How do I lower the income tax taken from my salary in the UAE?",
+    "category": "Trap / out-of-scope",
+    "answer": "This is not covered in the provided document.  \nSource: page [N] of CTGGCT1.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": 531,
+        "cosine_score": 0.6581,
+        "rerank_score": 1.2333,
+        "page": 113,
+        "text": "extent the income is not attributed to a Permanent Establishment in the UAE. 352 \nHowever, the rate of this tax is 0% meaning that, currently, no tax will need to be \nwithheld. \n \nIf the rate is changed in future, a Non-Resident Person who becomes subject to \nCorporate Tax would be able to reduce their Corporate Tax Payable by any \nWithholding Tax that has already been deducted in the same Tax Period.353 This is \nknown as Withholding Tax Credit. Any excess Withholding Tax Credit will be \nrefunded.354"
+      },
+      {
+        "rank": 2,
+        "chunk_id": 537,
+        "cosine_score": 0.5799,
+        "rerank_score": 1.0427,
+        "page": 114,
+        "text": "LLC can reduce its Corporate Tax liability using available Foreign Tax Credit. However, \nthe amount of Foreign Tax Credit is limited to the amount of Corporate Tax that would \nhave been paid in the UAE on the foreign income (AED 1,500,000 x 9% = AED \n                                               \n355 Article 47(1) of the Corporate Tax Law. \n356 Article 47(2) of the Corporate Tax Law. \n357 Article 47(3) of the Corporate Tax Law. \n358 Article 44 of the Corporate Tax Law. \n359 Article 47(4) of the Corporate Tax Law."
+      },
+      {
+        "rank": 3,
+        "chunk_id": 229,
+        "cosine_score": 0.557,
+        "rerank_score": 0.5512,
+        "page": 49,
+        "text": "their Business or Business Activity derived from the UAE, or from outside the \nUAE if it is connected to the Business or Business Activity being carried out in \nthe UAE.  \n \nTaxable Income is determined by applying the adjustments set out in Section 6.2.2 to \na Taxable Person’s annual Accounting Income, which should be taken from the \nFinancial Statements that are produced in accordance with accepted accounting \nstandards. Accounting standards that are accepted in the UAE for Corporate Tax \npurposes are the International Financial Reporting Standards (IFRS), or IFRS for small"
+      },
+      {
+        "rank": 4,
+        "chunk_id": 92,
+        "cosine_score": 0.5826,
+        "rerank_score": 0.1066,
+        "page": 21,
+        "text": "• The portion of the Taxable income exceeding AED 375,000 will be subject to \nCorporate Tax at 9%: (AED 6,000,000 - AED 375,000) x 9% = AED 5,625,000 x \n9% = AED 506,250 \n \nA LLC’s UAE Corporate Tax liability for the Tax Period will be AED 506,250. \n \nIn order to calculate its UAE Corporate Tax payable, A LLC will need to consider if there \nare any available tax credits to reduce its UAE Corporate Tax liability (see Section 9.3). \n \n \n \nSpecific rules cover the identification of Taxable Persons subject to Corporate Tax"
+      },
+      {
+        "rank": 5,
+        "chunk_id": 534,
+        "cosine_score": 0.5734,
+        "rerank_score": -0.1715,
+        "page": 114,
+        "text": "In order to apply Foreign Tax Credit, the pre-tax foreign income must be included in \nthe Taxable Income of the UAE Resident Person. The amount of Corporate Tax due \nshould be calculated based on the overall Taxable Income, and Foreign Tax Credit \ncan then be deducted from the amount of Corporate Tax Payable. \n \nThe amount of Foreign Tax Credit cannot exceed the amount of Corporate Tax due \non the foreign source income,356 and a Foreign Tax Credit cannot be carried forward \nor back.357 No refund will be given for unutilised Foreign Tax Credit. In addition,"
+      }
+    ]
+  },
+  {
+    "num": 20,
+    "question": "Exactly what penalty in AED will I get for filing 47 days late?",
+    "category": "Trap / out-of-scope",
+    "answer": "For filing a Tax Return late, the penalty is AED 500 for each month of delay, or part thereof, for the first twelve months. Since 47 days is more than one month but less than two months, you would incur a penalty of AED 500 for the first month of delay. \n\nSource: page 120 of CTGGCT1.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": 563,
+        "cosine_score": 0.5879,
+        "rerank_score": 1.6811,
+        "page": 120,
+        "text": "of the relevant Tax Period.400 For example, a Taxable Person with a Financial Year \nending on 31 December is required to file their Tax Return and pay Corporate Tax on \nor before 30 September the following year.  \n \nSubmitting a Tax Return late or a delay in making a payment of Corporate Tax Payable \nwill result in a penalty of: \n \n• \nAED 500 for each month of delay, or part thereof, for the first twelve months; \n• \nAED 1,000 for each month of delay, or part thereof, from the thirteenth month \nonwards.401"
+      },
+      {
+        "rank": 2,
+        "chunk_id": 546,
+        "cosine_score": 0.4902,
+        "rerank_score": -0.7516,
+        "page": 117,
+        "text": "General Corporate Tax Guide | Corporate Tax | CTGGCT1 \n116 \nFailure to submit a deregistration application within 3 months of the date the entity \nceases to exist, cessation of the Business, dissolution, liquidation or otherwise, will \nresult in a penalty of AED 1,000, and a further AED 1,000 on the same date monthly, \nup to a maximum of AED 10,000. 367 \n \nFor more details on the Tax Deregistration timelines refer to FTA Decision No. 6 of \n2023 on Tax Deregistration Timeline. \n \nWhere a Person does not comply with the Tax Deregistration requirements, the FTA"
+      },
+      {
+        "rank": 3,
+        "chunk_id": 576,
+        "cosine_score": 0.4816,
+        "rerank_score": -4.9102,
+        "page": 123,
+        "text": "General Corporate Tax Guide | Corporate Tax | CTGGCT1 \n122 \n• \nAED 10,000 for each violation; \n• \nAED 20,000 in each case of repeated violation within 24 months from the date \nof the last violation.410 \n \n10.7.1. \nExempt Persons \n \nExempt Persons must maintain records that enable the Exempt Person’s status to be \nreadily ascertained by the FTA.411 The documentation required will depend on the \nreason that a Person is exempt from Corporate Tax. \n \n10.7.2. \nHow long should records be kept? \n \n \nTaxable Persons and Exempt Persons must keep records and documents for seven"
+      },
+      {
+        "rank": 4,
+        "chunk_id": 387,
+        "cosine_score": 0.4353,
+        "rerank_score": -6.6971,
+        "page": 81,
+        "text": "Taxable Income of AED 5,000,000 in this Tax Period.  \n \nC LLC will have a final Taxable Income of AED 2,750,000 (AED 5,000,000 – AED \n2,250,000). This means that C LLC must pay Corporate Tax of AED 213,750 (AED \n375,000 x 0% + AED 2,375,000 x 9%). C LLC will have no Tax Losses to carry forward. \n \n(Amounts in AED) \n31/12/2026 \n31/12/2027 \n31/12/2028 \nTaxable Income (pre-Tax \nLoss relief)  \n(6,000,000) \n5,000,000 \n5,000,000 \nTax Loss utilised  \n0 \n3,750,000 \n2,250,000 \nFinal Taxable Income \n0 \n1,250,000 \n2,750,000 \nTax Loss carried forward 6,000,000 \n2,250,000 \n0 \nCorporate Tax Payable \n0"
+      },
+      {
+        "rank": 5,
+        "chunk_id": 336,
+        "cosine_score": 0.4491,
+        "rerank_score": -7.1948,
+        "page": 70,
+        "text": "The remaining carried forward Net Interest Expenditure amount of AED 5,000,000 can \nbe carried forward and deducted in the subsequent 10 Tax Periods after the interest \nexpenditure arose in the order in which the amount was incurred and subject to the"
+      }
+    ]
+  }
+]

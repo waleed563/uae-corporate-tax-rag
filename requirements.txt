@@ -1,0 +1,6 @@
+openai>=1.0
+numpy
+PyMuPDF
+openpyxl
+langchain-text-splitters
+python-dotenv

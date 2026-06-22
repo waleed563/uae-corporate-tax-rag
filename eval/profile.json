@@ -1,0 +1,35 @@
+{
+  "structural": {
+    "pages": 125,
+    "total_chars": 270086,
+    "example_blocks": 36,
+    "currency_figures": 234,
+    "numeric_table_lines": 1031,
+    "code_fences": 0,
+    "indented_blocks": 0,
+    "article_refs": 418,
+    "section_refs": 35,
+    "see_refs": 32,
+    "bullets": 291,
+    "caps_headings": 8,
+    "numbered_headings": 22,
+    "non_ascii_ratio": 0.0022
+  },
+  "structural_recommendations": [
+    "Keep worked Example blocks whole (Example-aware splitting)",
+    "Handle tables carefully (don't split mid-table)",
+    "Prepend section headings to chunks",
+    "Watch cross-references (add a link layer only if recall suffers)",
+    "Standard text loader is fine (PyMuPDF)"
+  ],
+  "chunk_cohesion": {
+    "400": 0.344,
+    "600": 0.3605,
+    "800": 0.4249,
+    "1200": 0.3649,
+    "1600": 0.4041,
+    "2000": 0.3719
+  },
+  "chunk_size_status": "no_signal",
+  "recommended_chunk_size": null
+}

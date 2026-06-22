@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+openai>=1.0
+numpy
+PyMuPDF
+langchain-community
+langchain-text-splitters
+qdrant-client
+sentence-transformers
+python-dotenv

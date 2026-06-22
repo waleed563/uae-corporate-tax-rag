@@ -1,0 +1,29 @@
+{
+  "config": {
+    "splitter": "recursive",
+    "chunk_size": 600,
+    "chunk_overlap": 100
+  },
+  "length": {
+    "count": 583,
+    "avg": 515,
+    "median": 554,
+    "min": 37,
+    "max": 599,
+    "std": 114,
+    "cv": 0.22
+  },
+  "boundary": {
+    "clean_start_pct": 65.7,
+    "clean_end_pct": 38.4
+  },
+  "examples": {
+    "total": 36,
+    "intact": 33,
+    "intact_pct": 91.7
+  },
+  "orphans": {
+    "orphan_count": 7,
+    "orphan_pct": 1.2
+  }
+}

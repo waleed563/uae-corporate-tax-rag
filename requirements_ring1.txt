@@ -1,0 +1,9 @@
+openai>=1.0
+numpy
+PyMuPDF
+openpyxl
+langchain-community
+langchain-text-splitters
+python-dotenv
+qdrant-client
+sentence-transformers
